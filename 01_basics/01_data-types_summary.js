@@ -18,3 +18,20 @@ console.log(id===anotherId);    // false
 // Non Primitive - Stored by reference & are mutable.
 
 // Arrays, Objects, Functions
+
+const chaitypes = ["Ginger Tea", "Lemon Tea", "Oolong Tea"] ;   // array
+
+let data = {                       // object
+    f_name : "Dhruv" ,
+    l_name : "Mittal",
+}
+
+
+const my_func = function(){                         // function
+     console.log("Hello from Dhruv");
+}
+
+my_func() ;             // calling of function
+
+
+console.log(typeof anotherId);   // we cann use typeof to get to know about the type.
