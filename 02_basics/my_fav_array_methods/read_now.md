@@ -7,7 +7,7 @@ Learn JavaScript through a wild road trip! Understand array methods like `push()
 
 ## 📖 Read the Full Story  
 👉 **Start the journey here:**  
-[The Road Trip That Taught Us JavaScript](https://its-dhruv-here.hashnode.dev/the-road-trip-that-taught-us-javascript-array-methods#heading-cheatsheet){:target="_blank"}
+<a href="https://its-dhruv-here.hashnode.dev/the-road-trip-that-taught-us-javascript-array-methods#heading-cheatsheet" target="_blank">The Road Trip That Taught Us JavaScript</a>
 
 ---
 
@@ -16,4 +16,4 @@ Learn JavaScript through a wild road trip! Understand array methods like `push()
 - **Cheat Sheet** available at the end to help you remember everything!
 
 👉 **Join the adventure:**  
-[Read the full article](https://its-dhruv-here.hashnode.dev/the-road-trip-that-taught-us-javascript-array-methods#heading-cheatsheet){:target="_blank"}
+<a href="https://its-dhruv-here.hashnode.dev/the-road-trip-that-taught-us-javascript-array-methods#heading-cheatsheet" target="_blank">Read the full article</a>
